@@ -67,9 +67,9 @@ function App() {
     <div className="App">
 
       {/* Displays data from doc*/}
-      <p>{!data ? "Loading..." : data}</p>
-      <p>{!data2 ? "Loading..." : data2}</p>
-      <p>{!data3 ? "Loading..." : data3}</p>
+      <p>{!data ? "" : data}</p>
+      <p>{!data2 ? "" : data2}</p>
+      <p>{!data3 ? "" : data3}</p>
 
       {/* Input Fields*/}
       <h6>Title</h6>
