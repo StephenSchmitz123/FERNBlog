@@ -1,7 +1,7 @@
 # FERNBlog
 Blog written using Firebase, Express, React, and Node
 
-Writes and Reads are to a personal firebase acc of mine atm could always change it!
+!! Writes and Reads are to a personal firebase db of mine at the moment, as I don't know if I'll have access to Methods firebase past this week !!
 
 Make sure if you want to run to: 
   1.) call 'npm start' outside of client folder to run backend
