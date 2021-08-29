@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 
 
-// basic get req
+// get data from firebase
 app.get('/get', async (req, res) => {
   const snapshot = await User.doc("Post").get().then((doc) => {
       console.log("data is: ", doc.data());
