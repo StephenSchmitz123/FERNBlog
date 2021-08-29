@@ -1,7 +1,7 @@
 # FERNBlog
 Blog written using Firebase, Express, React, and Node
 
-!! linked with personal firebase db of mine at the moment, as I don't know if I'll have access to Methods past this week !!
+LINKED WITH A PERSONAL DATABASE OF MINE AS I DON'T KNOW IF I'LL HAVE ACCESS TO METHOD'S AFTER THIS WEEK
 
 Make sure if you want to run to: 
   1.) call 'npm start' outside of client folder to run backend
