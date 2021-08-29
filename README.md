@@ -17,5 +17,5 @@ Didnt get much further than a single data instance being added on call, next ste
   Q2.) How can we display all our data onto different state objects?
 
   Potential Solution:
-    Create an empty state array for all posts, each array val is null by default
+    Create an empty state array for all posts, each array val is null by default -
     Loop through state array and assign array vals to snapshot loop data (async)
